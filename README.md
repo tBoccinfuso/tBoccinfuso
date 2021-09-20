@@ -3,16 +3,14 @@
 Here are some quick bullets about me:
 
 - 💻 My day job
-    - Senior Software Developer & Team Lead
-    - Manage a team of developers and work alongside PMs, designs & management
-    - Manage a product and determine how it can help users while still benefit the company
+    - Senior Software Engineer & Team Lead
     - DX & UX are always high on my list
     - Scale, scale, scale!
     - DRY
     - Training & mentoring developers
 - 🔭 I’m currently working on (outside work)
     - Game Development (Video & Tabletop)
-    - A PWA to track statuses of boats and bridges in the Welland Canal for the community
+    - [CanalTracker](https://canaltracker.com/)
 - 🌱 I’m currently learning more in depth:
     - GraphQL
     - Shopify App Development
@@ -26,7 +24,7 @@ Here are some quick bullets about me:
     - [Website](https://tboccinfuso.com)
 - ⚡ Fun facts:
     - I'm a retired professional gamer with 3 world championship titles
-    - 14 years of experience in esports. Playing, managing, recruiting & tournament organizing
+    - 15 years of experience in esports. Playing, managing, recruiting & tournament organizing
     - I love learning and tinkering with new things
     - I'm a proud dad to my fur and scale babies
     - Huge fan of the Hulk, the Flash, and Green Arrow
